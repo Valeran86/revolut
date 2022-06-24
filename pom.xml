@@ -22,7 +22,7 @@
         <!-- Test dependencies-->
         <javax.ws.rs-api.version>2.1.1</javax.ws.rs-api.version>
         <junit.version>4.12</junit.version>
-        <resteasy-client.version>3.0.2.Final</resteasy-client.version>
+        <resteasy-client.version>3.14.0.Final</resteasy-client.version>
         <!-- Maven plugins -->
         <maven-assembly-plugin.version>3.2.0</maven-assembly-plugin.version>
     </properties>
